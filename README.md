@@ -4,6 +4,6 @@
 + Modern Data Ecosystem.
 + Key Players in the Data Ecosystem.
 + Defining Data Analysis.
-+ Roles and Responsibilities of a Data Analysis.
++ Roles and Responsibilities of a Data Analysis
 + 
 
