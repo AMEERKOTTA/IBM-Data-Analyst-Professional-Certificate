@@ -6,4 +6,4 @@
 + Defining Data Analysis.
 + Roles and Responsibilities of a Data Analysis
 + 
-
+### **2. Excel Basics for Data Analysis.**
