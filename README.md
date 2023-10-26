@@ -1,6 +1,6 @@
 # **IBM-Data-Analyst-Professional-Certificate** 
 
-### **1. Introduction to Data Analytics**
+### **1. Introduction to Data Analytics** 
 + Modern Data Ecosystem.
 + Key Players in the Data Ecosystem.
 + Defining Data Analysis. 
